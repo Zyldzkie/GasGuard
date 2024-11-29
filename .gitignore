@@ -1,0 +1,48 @@
+# Kotlin/Gradle specific
+.gradle/
+build/
+out/
+
+# Kotlin Compiler output
+*.class
+
+# IntelliJ IDEA (or JetBrains IDEs) specific
+.idea/
+*.iml
+
+# Android Studio specific (if it's an Android project)
+*.apk
+*.ap_  
+*.dex
+*.class
+*.log
+local.properties
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Log files
+*.log
+
+# Gradle wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Maven wrapper files (if used)
+.mvn/
+target/
+
+# JetBrains IDEs general files
+.idea/
+
+# Gradle cache
+.gradle/
+
+# Environment-specific files (local environment settings)
+*.env
+
+# User-specific files
+*.swp
